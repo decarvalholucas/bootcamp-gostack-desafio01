@@ -7,4 +7,4 @@ All classes are in the root directory.
 
 ## Challenge
 
-the challenge is in the challenge directory
+The challenge is in the challenge directory
